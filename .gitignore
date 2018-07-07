@@ -25,3 +25,7 @@ cscope.*
 /configure
 /libtool
 /*.pc
+
+.build/*
+
+CNetlink.xcodeproj/*
